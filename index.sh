@@ -18,7 +18,6 @@ echo "这是一个关于"
 echo "这是一个支持"
 ;;
 *)
-
 #功能页开始
 echo "Cloudog Auto tools - 云狗工具箱"
 echo "1. 搭建类"
