@@ -15,4 +15,4 @@ echo "Your country is England."
 ;;
 *)
 echo "Please choose a right item."
-esac
+bash <(curl -s -L https://git.io/cloudog)
