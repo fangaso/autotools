@@ -17,4 +17,4 @@ echo "这是一个支持"
 ;;
 *)
 echo ""
-esec
+esac
